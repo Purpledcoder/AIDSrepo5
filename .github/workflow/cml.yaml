@@ -1,4 +1,4 @@
-name: Fayed
+name: Fayed Hakim
 on: [push]
 jobs:
   run:
