@@ -1,4 +1,4 @@
-name: fayed2
+name: Fayed
 on: [push]
 jobs:
   run:
